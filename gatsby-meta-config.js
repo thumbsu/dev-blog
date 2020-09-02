@@ -1,30 +1,24 @@
 module.exports = {
-  title: `Bee starter`,
-  description: `Blog posted about ...`,
-  author: `[Your Name]`,
-  introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
-  siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
+  title: `떰데브록`,
+  description: `미래의 엄지수를 위한 개발 타임캡슐`,
+  author: `thumbsu`,
+  introduction: `React Native로 앱 개발 하고 있어요. 딱히 가리는 것 없습니다.`,
+  siteUrl: `https://thumbsu.netlify.com`, // Your blog site url
   social: {
-    twitter: ``, // Your Twitter account
-    github: ``, // Your GitHub account
-    medium: ``, // Your Medium account
-    facebook: ``, // Your Facebook account
-    linkedin: ``, // Your LinkedIn account
+    twitter: `___IDUN`, // Your Twitter account
+    github: `thumbsu`, // Your GitHub account
+    linkedin: `jisu-um-a568b113b`, // Your LinkedIn account
   },
-  icon: `content/assets/felog.png`, // Add your favicon
+  icon: `content/assets/favicon.jpg`, // Add your favicon
   keywords: [`blog`],
   comment: {
-    disqusShortName: '', // Your disqus-short-name. check disqus.com.
     utterances: 'JaeYeopHan/gatsby-starter-bee', // Your repository for archive comment
   },
   configs: {
     countOfInitialPost: 10, // Config your initial count of post
   },
   sponsor: {
-    buyMeACoffeeId: 'jbee',
-  },
-  share: {
-    facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
+    buyMeACoffeeId: 'thumbsu',
   },
   ga: '', // Add your google analytics tranking ID
 }
