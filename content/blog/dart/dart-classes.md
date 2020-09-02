@@ -1,6 +1,6 @@
 ---
-title: 'Dart - Classes'
-date: 2020-09-02 16:09:24
+title: 'Dart language - Classes'
+date: 2020-08-20 10:31:24
 category: dart
 thumbnail: { thumbnailSrc }
 draft: false
