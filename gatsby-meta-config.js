@@ -20,5 +20,5 @@ module.exports = {
   sponsor: {
     buyMeACoffeeId: 'thumbsu',
   },
-  ga: '', // Add your google analytics tranking ID
+  ga: 'UA-117425016-1', // Add your google analytics tranking ID
 }
