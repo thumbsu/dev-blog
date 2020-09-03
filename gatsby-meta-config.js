@@ -7,7 +7,7 @@ module.exports = {
   social: {
     twitter: `___IDUN`, // Your Twitter account
     github: `thumbsu`, // Your GitHub account
-    linkedin: `jisu-um-a568b113b`, // Your LinkedIn account
+    linkedin: `thumbsu`, // Your LinkedIn account
   },
   icon: `content/assets/favicon.jpg`, // Add your favicon
   keywords: [`blog`],
