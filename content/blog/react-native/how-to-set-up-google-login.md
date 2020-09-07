@@ -43,7 +43,7 @@ $ yarn add @react-native-firebase/app
 
 **3. Android 앱에 Firebase 추가**
 
-- Android 패키지 이름에는 이전에 미리 세팅한 **Android의  패키지 이름**을 정확하게 작성
+- Android 패키지 이름에는 이전에 미리 세팅한 **Android의 패키지 이름**을 정확하게 작성
 - **Android Studio**를 실행
 - 프로젝트의 Android 디렉토리를 열기
 - Android Studio 우측에 **Gradle**을 클릭하고 **signingReport**를 실행
