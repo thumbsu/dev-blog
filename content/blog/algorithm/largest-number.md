@@ -46,3 +46,14 @@ const largestNumber = function(nums) {
   return result[0] === "0" ? "0" : result
 };
 ```
+
+## 풀이
+
+- `nums` 배열의 요소들을 string으로 변환
+- `nums` 배열 sort
+- `nums` 배열 sort 함수에 넘긴 `compareFunction`
+  - 두 숫자 문자열을 앞뒤로 합쳐서(ab, ba) 비교
+  - ab가 더 크면 -1 (a가 앞으로 감)
+  - 아니면 1 (b가 앞으로 감)
+- 정렬된 `nums` 문자열로 합침
+- `result`의 첫번째 요소가 `"0"`이면 `"0"`리턴 아니면 `result` 리턴

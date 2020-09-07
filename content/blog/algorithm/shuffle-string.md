@@ -53,7 +53,7 @@ Input: s = "art", indices = [1,0,2]
 Output: "rat"
 ```
 
-Constraints:
+#### Constraints:
 
 - `s.length == indices.length == n`
 - `1 <= n <= 100`
@@ -82,3 +82,10 @@ const restoreString = function(s, indices) {
   return result.join('')
 }
 ```
+
+## 풀이
+
+- `result` 변수 : `s`를 새롭게 정렬할 배열
+- 문자열 `s` 길이만큼 반복문
+- `result[indices[0 ~ s.length -1]]`에 `s[indices[0 ~ s.length -1]` 값 넣어줌
+- 배열을 문자열로 합쳐서 반환
