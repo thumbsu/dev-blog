@@ -66,7 +66,7 @@ const validPalindrome = function(s) {
   - `r -= 1`
 - 반복문을 돌면서 양 끝의 문자가 같은지 확인
 - 다르다면 `deleteOneChar` 인자를 확인
-  - `deleteOneChar`가 true면 회문이 아니기 때문에 false 반환
+  - `deleteOneChar`가 true면 이미 문자를 하나 지운 상태이므로, 더이상 확인할 필요없이 false 반환
   - `deleteOneChar`이 false면
     - 현재까지 확인되지 않은 문자열 중 맨 앞 문자를 제거하고 다시 `isPalindrome` 함수를 호출(이때 `deleteOneChar`는 true)
     - 맨 뒤 문자를 제거하고 동일하게 함
