@@ -2,7 +2,7 @@ module.exports = {
   title: `떰데브록`,
   description: `미래의 엄지수를 위한 개발 타임캡슐`,
   author: `thumbsu`,
-  introduction: `React Native로 앱 개발 하고 있어요. 딱히 가리는 것 없습니다.`,
+  introduction: `프론트엔드 개발자 엄지수 입니다.`,
   siteUrl: `https://thumbsu.dev`, // Your blog site url
   social: {
     twitter: `___IDUN`, // Your Twitter account
