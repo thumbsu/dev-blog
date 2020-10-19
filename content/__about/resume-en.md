@@ -14,6 +14,9 @@ lang: 'en'
 
 전반적인 비지니스 로직을 구현하는데에는 어려움이 없고, 프로젝트 전체를 바라보고 설계할 수 있는 실력을 키우기 위해 서 노력하고 있습니다.
 
+- [github에서 보기](https://github.com/thumbsu/resume)
+- [PDF 받기](https://drive.google.com/file/d/1dMgMqIx99MJkC8EtuEVJdqSqU6ZHrA6E/view?usp=sharing)
+
 ## 경력
 
 - **마켓잇**, 서울 성동구 - 개발팀 사원
